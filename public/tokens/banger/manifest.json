@@ -1,0 +1,11 @@
+{
+  "version": "2025-08-14",
+  "type": "ERC20",
+  "isSuperToken": true,
+  "svgIconPath": "/tokens/banger/icon.svg",
+  "superTokenType": "CUSTOM",
+  "superTokenCustomProperties": ["PRE_MINTED"],
+  "defaultColor":"#00000",
+  "coingeckoId": "",
+  "defaultPrice": 0.000000001
+}
