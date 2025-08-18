@@ -1,0 +1,9 @@
+{
+  "version": "2025-08-18",
+  "type": "ERC20",
+  "svgIconPath": "/tokens/butthole/icon.svg",
+  "isSuperToken": true,
+  "defaultColor":"#d87756",
+  "coingeckoId": null,
+  "roundCurrencyUpto": "4"
+}
